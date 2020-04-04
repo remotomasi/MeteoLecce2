@@ -6,7 +6,9 @@
     <string name="ventoDirezione">ventoDirezione</string>
     <string name="humidita">humidita</string>
     <string name="nebbia">nebbia</string>
-    <string name="data">data</string>
+    <string name="data">Elaborazione dati &#8230;</string>
     <string name="aggiorna">Aggiorna</string>
     <string name="prossimiGiorni">prossimiGiorni</string>
+    <string name="percentuale">%</string>
+    <string name="lastUpdate">Ultimo aggiornamento&#62;</string>
 </resources>
